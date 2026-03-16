@@ -6,7 +6,7 @@ I have experience in working with diverse datasets and delivering reports that d
 - 🧹 Data cleaning and preparation
 - 📈 Building predictive models
 - 🧮 Statistical analysis
-- 📉 Data visualization with **Power BI**, **Tableau**, **Matplotlib**
+- 📉 Data visualization with **Power BI**, **R-Shiny**, **Matplotlib**
 - 🗄️ Databases and querying with **SQL**
 - 🤖 Machine learning with **Scikit-learn** and **TensorFlow**
 

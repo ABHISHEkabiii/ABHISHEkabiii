@@ -1,15 +1,32 @@
-👋 **Hi, I'm Abhishek** – a passionate **Data Analyst** with expertise in extracting insights from complex data and turning them into actionable business strategies. With a strong background in **data visualization**, **data cleaning**, and **statistical analysis**, I specialize in using **R**, **Python**, and **SQL** to solve challenging problems.
+👋 **Hi, I'm Abhishek** – an aspiring **AI/ML Engineer** with a strong foundation in **Data Analytics** and a passion for building **intelligent, scalable solutions** from real-world data.
 
-I have experience in working with diverse datasets and delivering reports that drive decision-making across industries. My skills include:
+With hands-on experience in **healthcare data analytics** and exposure to **real-world datasets**, I specialize in developing **machine learning models**, performing **statistical analysis**, and translating data into actionable insights. I am particularly interested in applying AI to **drug safety, predictive modeling, and healthcare innovation**.
 
-- 📊 Data analysis and exploration
-- 🧹 Data cleaning and preparation
-- 📈 Building predictive models
-- 🧮 Statistical analysis
-- 📉 Data visualization with **Power BI**, **R-Shiny**, **Matplotlib**
-- 🗄️ Databases and querying with **SQL**
-- 🤖 Machine learning with **Scikit-learn** and **TensorFlow**
+### 🔹 Core Skills & Expertise
 
-I enjoy collaborating with teams and leveraging my analytical skills to make data-driven decisions. I am always open to learning new technologies and staying up-to-date with the latest trends in data science.
-Feel free to check out my repositories and projects, where I explore interesting datasets and build models to uncover insights. Let’s connect and collaborate!
+* 🤖 Machine Learning & AI (Scikit-learn, TensorFlow)
+* 📊 Data Analysis & Statistical Modeling
+* 🧠 Predictive Modeling & Model Evaluation
+* 🧹 Data Cleaning, Feature Engineering & Preprocessing
+* 📈 Data Visualization (**Power BI**, R-Shiny, Matplotlib)
+* 🗄️ SQL & Database Management
+* ⚙️ Model Deployment & APIs (Flask, basic MLOps concepts)
 
+### 🔹 What I Do
+
+* Build and optimize **ML models for real-world problems**
+* Work with **end-to-end pipelines** (data → model → deployment)
+* Develop **data-driven solutions in healthcare and business domains**
+* Explore **AI applications in Adverse Drug Reaction (ADR) detection**
+
+### 🔹 Tools & Technologies
+
+**Python • R • SQL • Power BI • TensorFlow • Scikit-learn • Flask • Git**
+
+I enjoy collaborating, solving complex problems, and continuously learning new technologies in **AI/ML and MLOps**.
+
+🚀 *Feel free to explore my repositories where I build intelligent systems and data-driven applications. Let’s connect and create impactful solutions!*
+
+
+* Add **ADR project description like a product**
+* Optimize it specifically to match **GSK recruiter keywords (ATS optimized)**

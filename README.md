@@ -28,5 +28,3 @@ I enjoy collaborating, solving complex problems, and continuously learning new t
 🚀 *Feel free to explore my repositories where I build intelligent systems and data-driven applications. Let’s connect and create impactful solutions!*
 
 
-* Add **ADR project description like a product**
-* Optimize it specifically to match **GSK recruiter keywords (ATS optimized)**

@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated 3D Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Abhishek&fontSize=90&color=0:0f0c29,50:302b63,100:24243e&stroke=6e40c9&strokeWidth=2&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20%2F%20ML%20Enthusiast%20%7C%20Data%20Science and Analyst&descAlignY=75&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Abhishek&fontSize=90&color=0:0f0c29,50:302b63,100:24243e&stroke=6e40c9&strokeWidth=2&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20%2F%20ML%20Enthusiast%20%7C%20Data%20Science%20and%20Analyst&descAlignY=75&descSize=22" width="100%"/>
+
+
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
@@ -137,7 +139,8 @@ Healthcare AI / ADR     ██████████████████�
 ### 📊 &nbsp;GitHub Statistics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABHISHEkabiii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=6e40c9&text_color=c9d1d9"/>
-&nbsp;
+&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEkabiii&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=6e40c9&currStreakLabel=a78bfa" alt="GitHub Streak" />
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEkabiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 <br/>
@@ -220,7 +223,8 @@ mindmap
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6e40c9&height=120&section=footer&animation=fadeIn" width="100%"/>
+<br/>
 
 <!-- Footer wave animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6e40c9&height=120&section=footer&animation=fadeIn" width="100%"/>

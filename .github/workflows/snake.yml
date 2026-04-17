@@ -8,8 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # This is required for Platane/snk@v3 to commit the snake SVG
+      pages: write     # This is required for crazy-max/ghaction-github-pages@v3 to deploy to GitHub Pages
+      id-token: write  # This is required for authentication with GitHub Pages
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Updated to v4 for better Node.js compatibility
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}

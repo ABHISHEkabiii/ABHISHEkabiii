@@ -7,7 +7,7 @@
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Healthcare+AI+%7C+Drug+Safety+Analytics+%F0%9F%A7%AC;Turning+Raw+Data+Into+Impact+%F0%9F%93%8A;ML+Engineer+%7C+Data+Scientist+%7C+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Healthcare+AI+%7C+Drug+Safety+Analytics+%F0%9F%A7%AC;Turning+Raw+Data+Into+Impact+%F0%9F%93%8A;ML+Enthusiast+%7C+Data+Science+%7C+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -222,10 +222,6 @@ mindmap
 <a href="https://github.com/ABHISHEkabiii">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6e40c9&height=120&section=footer&animation=fadeIn" width="100%"/>
-<br/>
-
 <!-- Footer wave animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6e40c9&height=120&section=footer&animation=fadeIn" width="100%"/>
 

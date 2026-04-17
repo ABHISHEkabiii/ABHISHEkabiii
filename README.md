@@ -1,18 +1,278 @@
-# 💫 About Me:
-👋 Hi, I'm Abhishek – an aspiring AI/ML Engineer with a strong foundation in Data Analytics and a passion for building intelligent, scalable solutions from real-world data.<br><br>With hands-on experience in healthcare data analytics and exposure to real-world datasets, I specialize in developing machine learning models, performing statistical analysis, and translating data into actionable insights. I am particularly interested in applying AI to drug safety, predictive modeling, and healthcare innovation.<br><br>🔹 Core Skills & Expertise<br>🤖 Machine Learning & AI (Scikit-learn, TensorFlow)<br>📊 Data Analysis & Statistical Modeling<br>🧠 Predictive Modeling & Model Evaluation<br>🧹 Data Cleaning, Feature Engineering & Preprocessing<br>📈 Data Visualization (Power BI, R-Shiny, Matplotlib)<br>🗄️ SQL & Database Management<br>⚙️ Model Deployment & APIs (Flask, basic MLOps concepts)<br>🔹 What I Do<br>Build and optimize ML models for real-world problems<br>Work with end-to-end pipelines (data → model → deployment)<br>Develop data-driven solutions in healthcare and business domains<br>Explore AI applications in Adverse Drug Reaction (ADR) detection<br>🔹 Tools & Technologies<br>Python • R • SQL • Power BI • TensorFlow • Scikit-learn • Flask • Git<br><br>I enjoy collaborating, solving complex problems, and continuously learning new technologies in AI/ML and MLOps.<br><br>🚀 Feel free to explore my repositories where I build intelligent systems and data-driven applications. Let’s connect and create impactful solutions!
+<div align="center">
 
+<!-- Animated 3D Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Abhishek&fontSize=90&color=0:0f0c29,50:302b63,100:24243e&stroke=6e40c9&strokeWidth=2&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20%2F%20ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=75&descSize=22" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_20_abhishek_02_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-199b22279/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek720022002@gmail.com) 
+<!-- Typing SVG Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Healthcare+AI+%7C+Drug+Safety+Analytics+%F0%9F%A7%AC;Turning+Raw+Data+Into+Impact+%F0%9F%93%8A;ML+Engineer+%7C+Data+Scientist+%7C+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ABHISHEkabiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ABHISHEkabiii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEkabiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<!-- Profile badges row -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ABHISHEkabiii&label=Profile+Views&color=6e40c9&style=for-the-badge" alt="Profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/ABHISHEkabiii?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" alt="Followers"/>
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ABHISHEkabiii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- About Me Section with animated wave -->
+<img align="right" alt="AI Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### 👨‍💻 &nbsp;About Me
+
+```python
+class Abhishek:
+    def __init__(self):
+        self.name       = "Abhishek"
+        self.role       = "Aspiring AI/ML Engineer"
+        self.focus      = ["Healthcare AI", "Drug Safety", 
+                           "Predictive Modeling"]
+        self.currently  = "Building smarter ML pipelines 🚀"
+        self.learning   = ["MLOps", "LLMs", "Deep Learning"]
+        self.fun_fact   = "I find patterns where others see noise 🔍"
+    
+    def say_hi(self):
+        print("Let's build something impactful together!")
+
+me = Abhishek()
+me.say_hi()
+```
+
+<br clear="right"/>
+
+---
+
+<!-- 3D Contribution Snake Animation -->
+<div align="center">
+
+### 🐍 &nbsp;My Contributions Eating Up the Grid
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ABHISHEkabiii/ABHISHEkabiii/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ABHISHEkabiii/ABHISHEkabiii/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ABHISHEkabiii/ABHISHEkabiii/output/github-snake-dark.svg" />
+</picture>
+
+> ⚙️ _To enable the snake, add a GitHub Actions workflow — see setup note at the bottom._
+
+</div>
+
+---
+
+<!-- Skills Section -->
+<div align="center">
+
+### 🧠 &nbsp;Tech Arsenal
+
+</div>
+
+<table align="center">
+<tr>
+  <td valign="top" width="33%">
+
+**🤖 AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+  </td>
+  <td valign="top" width="33%">
+
+**📊 Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+  </td>
+  <td valign="top" width="33%">
+
+**🗄️ Data Infra & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+  </td>
+</tr>
+</table>
+
+---
+
+<!-- Animated Skill Bars via SVG -->
+<div align="center">
+
+### ⚡ &nbsp;Core Competency Radar
+
+```
+Machine Learning        ████████████████████░   90%
+Data Analysis           ██████████████████░░░   85%
+Deep Learning           ███████████████░░░░░░   75%
+Data Visualization      ████████████████░░░░░   80%
+MLOps / Deployment      ████████████░░░░░░░░░   60%
+Healthcare AI / ADR     ██████████████████░░░   88%
+```
+
+</div>
+
+---
+
+<!-- GitHub Stats Section -->
+<div align="center">
+
+### 📊 &nbsp;GitHub Statistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABHISHEkabiii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=6e40c9&text_color=c9d1d9"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEkabiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ABHISHEkabiii&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=6e40c9&currStreakLabel=a78bfa" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<!-- 3D Contribution Graph -->
+<div align="center">
+
+### 🌐 &nbsp;Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEkabiii&bg_color=0d1117&color=a78bfa&line=6e40c9&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<!-- Focus Areas -->
+<div align="center">
+
+### 🔬 &nbsp;What I'm Working On
+
+</div>
+
+```mermaid
+mindmap
+  root((Abhishek))
+    Healthcare AI
+      ADR Detection
+      Drug Safety Analytics
+      Patient Outcome Prediction
+    ML Engineering
+      Model Building & Tuning
+      Feature Engineering
+      End-to-End Pipelines
+    MLOps
+      Flask Deployment
+      MLflow Tracking
+      Model Monitoring
+    Data Science
+      Statistical Modeling
+      Power BI Dashboards
+      R-Shiny Apps
+```
+
+---
+
+<!-- Trophies -->
+<div align="center">
+
+### 🏆 &nbsp;GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ABHISHEkabiii&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+
+</div>
+
+---
+
+<!-- Quote -->
+<div align="center">
+
+### 💭 &nbsp;Dev Philosophy
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
+</div>
+
+---
+
+<!-- Connect Section -->
+<div align="center">
+
+### 🌐 &nbsp;Let's Connect
+
+<a href="https://www.linkedin.com/in/abhishek-199b22279/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:abhishek720022002@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://instagram.com/_20_abhishek_02_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/ABHISHEkabiii">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- Footer wave animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6e40c9&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
+
+---
+
+<details>
+<summary>⚙️ <b>How to Enable the Contribution Snake Animation</b></summary>
+
+Create the file `.github/workflows/snake.yml` in your profile repo with:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>

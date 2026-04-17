@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated 3D Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Abhishek&fontSize=90&color=0:0f0c29,50:302b63,100:24243e&stroke=6e40c9&strokeWidth=2&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20%2F%20ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=75&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Abhishek&fontSize=90&color=0:0f0c29,50:302b63,100:24243e&stroke=6e40c9&strokeWidth=2&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20%2F%20ML%20Enthusiast%20%7C%20Data%20Scientist&descAlignY=75&descSize=22" width="100%"/>
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
@@ -58,8 +58,6 @@ me.say_hi()
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ABHISHEkabiii/ABHISHEkabiii/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ABHISHEkabiii/ABHISHEkabiii/output/github-snake-dark.svg" />
 </picture>
-
-> ⚙️ _To enable the snake, add a GitHub Actions workflow — see setup note at the bottom._
 
 </div>
 
@@ -192,15 +190,6 @@ mindmap
 ---
 
 <!-- Trophies -->
-<div align="center">
-
-### 🏆 &nbsp;GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ABHISHEkabiii&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
-
-</div>
-
----
 
 <!-- Quote -->
 <div align="center">
@@ -240,39 +229,5 @@ mindmap
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6e40c9&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-
----
-
-<details>
-<summary>⚙️ <b>How to Enable the Contribution Snake Animation</b></summary>
-
-Create the file `.github/workflows/snake.yml` in your profile repo with:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 </details>
